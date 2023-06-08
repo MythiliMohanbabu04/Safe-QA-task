@@ -1,5 +1,7 @@
 # Safe-QA-task
 
+Tool used to Automate: Cypress version 12.14.0
+
 **Programming Langauge** : JavaScript / Nodejs
 
 **Type of Framework** : Page object model and data driven framework
